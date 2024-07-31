@@ -27,7 +27,27 @@
 ![image](https://github.com/user-attachments/assets/6747a814-a617-421b-af86-d5031cef50cd)
 # Exectute it
 ![image](https://github.com/user-attachments/assets/001fa0b6-de57-44f5-8b26-d17fc43e35bb)
-
+![image](https://github.com/user-attachments/assets/d564a9ab-502c-4579-926f-9ccf201ef5c5)
+![image](https://github.com/user-attachments/assets/329e78f2-d5fb-4509-9e86-f52642391aac)
+![image](https://github.com/user-attachments/assets/aa0a7cd8-dc97-4d2e-aba9-859d9f3d7129)
+![image](https://github.com/user-attachments/assets/1c598a53-4e2d-4e62-b5a3-2ade50dbcceb)
+![image](https://github.com/user-attachments/assets/af2118e2-105f-43d9-9757-9c4ed42674b3)
+![image](https://github.com/user-attachments/assets/ed63d187-fc46-4d3e-99f5-011cc778d1ee)
+# now Create Actors
+![image](https://github.com/user-attachments/assets/b1f340af-38c3-486d-88db-c92348cc3f09)
+# 2 persons
+![image](https://github.com/user-attachments/assets/a320e550-c921-4238-acee-119c4a9c3bb6)
+![image](https://github.com/user-attachments/assets/10a328ee-bf3b-4110-9af0-3ef3fb60b888)
+# 3rd person - SRK
+![image](https://github.com/user-attachments/assets/5e9d58f0-dd8b-4e3c-bec4-76378ef7d383)
+![image](https://github.com/user-attachments/assets/e5a35f71-a71e-4c99-9b87-44e95051aced)
+# now Create Relationship – new property movie – created 
+![image](https://github.com/user-attachments/assets/155542b3-286d-48e6-ba1c-0bc9e232e880)
+# Movies Acted in Jawan – SRK & BlackADAM- by ROCK – use MATCH cmd +create Relationship too
+![image](https://github.com/user-attachments/assets/9657a2ac-c898-44bd-8fd7-3a44082cbf4c)
+![image](https://github.com/user-attachments/assets/f871ec5e-8d7c-4637-8121-faa2fb7c905b)
+![image](https://github.com/user-attachments/assets/d593682b-040b-42f3-8f0d-ab028ae84179)
+![image](https://github.com/user-attachments/assets/2de0e0a6-af14-4636-97ef-3065697ae8bd)
 
 
 
