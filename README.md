@@ -21,6 +21,14 @@
 ![image](https://github.com/user-attachments/assets/887140cd-f397-409d-a15c-f0177ddf102f)
 ![image](https://github.com/user-attachments/assets/4efdac2a-3f13-476f-92e9-4c3ab524832c)
 ![image](https://github.com/user-attachments/assets/7dd3e926-0aec-4a19-94ab-e350bcfc89dd)
+# Create a cmd attributes - property- key - values
+# based on below method
+![image](https://github.com/user-attachments/assets/72f21d6e-8fbf-4b35-99ab-53280b52669c)
+![image](https://github.com/user-attachments/assets/6747a814-a617-421b-af86-d5031cef50cd)
+# Exectute it
+![image](https://github.com/user-attachments/assets/001fa0b6-de57-44f5-8b26-d17fc43e35bb)
+
+
 
 
 
