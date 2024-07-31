@@ -64,7 +64,7 @@
 # Movie
 ![image](https://github.com/user-attachments/assets/1e31c23f-4196-4f0a-b85a-44ba708f7dac)
 # Acted-in
-![image](https://github.com/user-attachments/assets/fe148cd7-dc42-4b3c-b300-fb2dabffba5b
+![image](https://github.com/user-attachments/assets/ab40c5dd-edfd-45de-84e9-f807f4c73e60)
 # Zoom in 
 ![image](https://github.com/user-attachments/assets/6fabd296-485a-483b-805b-1c27ce9cee5a)
 ![image](https://github.com/user-attachments/assets/ee427848-9d40-4bf8-9c0f-f404762cc381)
