@@ -82,6 +82,8 @@
 ![image](https://github.com/user-attachments/assets/0cb0402c-e830-48df-81a8-649b7e0a5955)
 ![image](https://github.com/user-attachments/assets/81c39d68-f313-4bbc-ab14-af36724563df)
 ![image](https://github.com/user-attachments/assets/48bc7c39-503b-453d-a6e9-8fb3fba06e6c)
+# final snapshot in NEO4j AuraDB
+![image](https://github.com/user-attachments/assets/eb52349f-9103-4df4-bbdc-b997cb69b36c)
 
 
 
