@@ -48,6 +48,23 @@
 ![image](https://github.com/user-attachments/assets/f871ec5e-8d7c-4637-8121-faa2fb7c905b)
 ![image](https://github.com/user-attachments/assets/d593682b-040b-42f3-8f0d-ab028ae84179)
 ![image](https://github.com/user-attachments/assets/2de0e0a6-af14-4636-97ef-3065697ae8bd)
+# open Google-Colab starting using Langchain
+![image](https://github.com/user-attachments/assets/f65e2185-b03b-46a4-8064-4286b6b080e5)
+![image](https://github.com/user-attachments/assets/fdb04c9f-6cb5-4c4d-ab62-f95090db0a61)
+![image](https://github.com/user-attachments/assets/f9810d43-34d9-4ddb-8cad-d39746b86541)
+![image](https://github.com/user-attachments/assets/8798182f-b491-4d6c-9d99-2979a4bd73eb)
+![image](https://github.com/user-attachments/assets/c80f1ef8-1043-45f4-bf5b-86ef14632e0e)
+![image](https://github.com/user-attachments/assets/357d0e83-1f6c-463b-828e-fbc900ae9713)
+![image](https://github.com/user-attachments/assets/367e5e10-5342-40a7-9443-745691d601b1)
+![image](https://github.com/user-attachments/assets/e8c802b7-0cd5-41dd-b237-28aa31c1d19e)
+![image](https://github.com/user-attachments/assets/7cdadac9-3883-4c91-b750-783e09323e78)
+![image](https://github.com/user-attachments/assets/7fd66639-dedb-4668-9378-1b675cdaa6f9)
+![image](https://github.com/user-attachments/assets/e169ea80-ed93-4d65-a7a5-e67d8802f99d)
+![image](https://github.com/user-attachments/assets/a7d64d83-cf14-4d8a-9c23-7027e7fc925c)
+![image](https://github.com/user-attachments/assets/171fbb8f-f329-48d3-ad59-a6a469271ac0)
+![image](https://github.com/user-attachments/assets/0cb0402c-e830-48df-81a8-649b7e0a5955)
+![image](https://github.com/user-attachments/assets/81c39d68-f313-4bbc-ab14-af36724563df)
+![image](https://github.com/user-attachments/assets/48bc7c39-503b-453d-a6e9-8fb3fba06e6c)
 
 
 
