@@ -59,6 +59,23 @@
 ![image](https://github.com/user-attachments/assets/e8c802b7-0cd5-41dd-b237-28aa31c1d19e)
 ![image](https://github.com/user-attachments/assets/7cdadac9-3883-4c91-b750-783e09323e78)
 ![image](https://github.com/user-attachments/assets/7fd66639-dedb-4668-9378-1b675cdaa6f9)
+# Connection in Neo4j- Aura DB -using Movie-small Dataset 
+![image](https://github.com/user-attachments/assets/823a7295-10a3-4d1c-8435-ef2d1be1d272)
+# Movie
+![image](https://github.com/user-attachments/assets/1e31c23f-4196-4f0a-b85a-44ba708f7dac)
+# Acted-in
+![image](https://github.com/user-attachments/assets/fe148cd7-dc42-4b3c-b300-fb2dabffba5b
+# Zoom in 
+![image](https://github.com/user-attachments/assets/6fabd296-485a-483b-805b-1c27ce9cee5a)
+![image](https://github.com/user-attachments/assets/ee427848-9d40-4bf8-9c0f-f404762cc381)
+# Visulization 
+![image](https://github.com/user-attachments/assets/9b402c1b-e8b9-4e3a-8e07-6a59e4528db8)
+# In-Genere
+![image](https://github.com/user-attachments/assets/de7ba005-8ccc-40a8-b7f7-72c8969c1932)
+# In Visual
+![image](https://github.com/user-attachments/assets/15f32626-e123-4528-bf5a-dbcaba35bfca)
+# Download
+![image](https://github.com/user-attachments/assets/795de637-7cc4-405c-b45e-3b37cd7485ad)
 ![image](https://github.com/user-attachments/assets/e169ea80-ed93-4d65-a7a5-e67d8802f99d)
 ![image](https://github.com/user-attachments/assets/a7d64d83-cf14-4d8a-9c23-7027e7fc925c)
 ![image](https://github.com/user-attachments/assets/171fbb8f-f329-48d3-ad59-a6a469271ac0)
